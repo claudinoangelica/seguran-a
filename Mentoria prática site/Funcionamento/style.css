@@ -1,0 +1,13 @@
+
+body{
+    background-color: hsl(240, 3%, 79%);
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+}

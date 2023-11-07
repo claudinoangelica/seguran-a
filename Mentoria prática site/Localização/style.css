@@ -1,0 +1,17 @@
+
+body{
+    background-color: hsl(240, 3%, 79%);
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+}
+iframe{
+    text-align: center;
+    margin-left: 400px;
+}
